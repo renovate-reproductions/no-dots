@@ -1,0 +1,3 @@
+{
+  "branchName": "{{{branchPrefix}}}{{{additionalBranchPrefix}}}{{replace branchTopic "." "-" }}"
+}
